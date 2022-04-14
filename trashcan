@@ -1,0 +1,8 @@
+        <button onClick={mintLess}>-</button>
+            <input
+              type="number"
+              value={mintAmount}
+              onChange={this.setMintAmount}
+            />
+            <button onClick={mintMore}>+</button>
+          </div>

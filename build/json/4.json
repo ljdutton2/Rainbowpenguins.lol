@@ -1,0 +1,19 @@
+{
+  "name": "Rainbow Penguins #4",
+  "description": "all da pretty penguins",
+  "image": "ipfs://QmQGAJnA5joFrqa7FjBrFz5jig5n3biEHGFPwccznuX8UZ/4.png",
+  "dna": "fa794a7a0b8e1d48ddcb7fd00ff06c09a509d53d",
+  "edition": 4,
+  "date": 1649108962558,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blues"
+    },
+    {
+      "trait_type": "main",
+      "value": "penguin"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
